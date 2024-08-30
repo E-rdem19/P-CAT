@@ -1,0 +1,26 @@
+{
+  "name": "p-cat",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-rdem19/P-CAT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-rdem19/P-CAT/issues"
+  },
+  "homepage": "https://github.com/E-rdem19/P-CAT#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
